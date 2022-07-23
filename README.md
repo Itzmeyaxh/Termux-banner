@@ -1,5 +1,4 @@
-# Termux Banner
-#Script by Yash
+<h1 align="center">⚡ Xtricon Termux Banner ⚡</h1>
 
 ## Installation :
 
