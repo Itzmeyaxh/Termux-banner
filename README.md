@@ -29,6 +29,10 @@
 
 2) Done !!!
 
+## Support :
+
+Telegram - https://t.me/XtriconShop
+
 
 
 
