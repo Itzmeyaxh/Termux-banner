@@ -1,5 +1,7 @@
 <h1 align="center">⚡ Xtricon Termux Banner ⚡</h1>
 
+![Xtricon](https://telegra.ph/file/7c02d3cdde6b25e5ea41a.jpg)
+
 ## Installation :
 
 1) git clone https://github.com/Itzmeyaxh/Termux-Banner
